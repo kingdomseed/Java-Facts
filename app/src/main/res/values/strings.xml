@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Java Facts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="did_know">Did you know?</string>
+    <string name="fact1">Java is a great first language to learn. Click the button and test your knowledge!</string>
+    <string name="next_fact">Show another Java Fact</string>
+
+
+
+</resources>
